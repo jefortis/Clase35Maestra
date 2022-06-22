@@ -1,2 +1,2 @@
-# Clase35Maestra
-Clase35Maestra
+# Movimiento asincrónico de la pelota
+Boiler plate para la pelota con movimiento asincrónico
